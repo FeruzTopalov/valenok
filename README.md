@@ -1,7 +1,9 @@
 ## **VALENOK** - yet another DS18B20 thermometer, but...
 
 <p align="center">
-  <a href="https://youtu.be/WqwGhjjpDnw">--> Watch it on youtube now! <--</a>
+  <img src="Pictures/Babushka.jpg" width="400">
+  <br>
+  <a href="https://youtu.be/WqwGhjjpDnw">https://youtu.be/WqwGhjjpDnw</a>
 </p>
 
 * Eyes-friendly static indication
@@ -10,10 +12,6 @@
 * Only temperature - who the f**k needs more?
 * Totally open-source/open-hardware
 * Easy solderable - 0805 chip components and huuuge SMD packages
-
-<p align="center">
-  <img src="Pictures/Babushka.jpg" width="256">
-</p>
 
 ## Hardware
 
