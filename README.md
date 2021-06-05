@@ -17,7 +17,7 @@
 
 ## Hardware
 
-![PCB](Pictures/PCB.jpg)
+![PCB](Pictures/PCB.JPG)
 
 Well, it is a typical KiCad project, schematic + PCB. Also there are prepared gerbers, so if you don't want to deal with KiCad, just zip "gerbers" folder and send it to your PCB supplier. 
 
@@ -39,7 +39,7 @@ _See 'Pictures/Trick.jpg' for details_
 
 ## Firmware
 
-![FW](Pictures/FW.jpg)
+![FW](Pictures/FW.JPG)
 
 Written in assembler using pretty old AVR Studio 4.19, therefore i publish only the listing but not the project file. I you want to compile by yourself, use any appropriate AVR compiler or find AVR Studio 4.19 on the internet. Anyway there is a ready .hex file to flash.
 
@@ -68,4 +68,4 @@ PCB is fixed to the smaller lid using 20 mm Male-Female Hex standoffs; 3x AA bat
 
 In "dxf" folder you can find a guide where to make holes - one for 7-Seg display, one for button:
 
-![Panel](Pictures/FrontPanel.jpg)
+![Panel](Pictures/FrontPanel.JPG)
