@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC595
+D 8-bit serial-in, serial or parallel-out shift register with output latches; 3-state
+$ENDCMP
+#
+$CMP AO3400
+D 30V N-Channel MOSFET, SOT23
+$ENDCMP
+#
+$CMP AO3407A
+D 30V P-Channel MOSFET, SOT23
+$ENDCMP
+#
+$CMP ATtiny13A
+D 8-bit Microcontroller with 1K Bytes Flash
+$ENDCMP
+#
+$CMP C
+D Capacitor
+$ENDCMP
+#
+$CMP KLS7-TS6604-4.3
+D 6x6mm SMD tact switch, 4.3mm height
+$ENDCMP
+#
+$CMP PLS-1x6
+D PLS pin header
+$ENDCMP
+#
+$CMP Pad
+D SMT pad with plated hole to solder wire or single PLS contact
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP SC56-11GWA
+D 14.2mm (0.56INCH) single 7-seg numeric display,  common cathode, green
+$ENDCMP
+#
+#End Doc Library

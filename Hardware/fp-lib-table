@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name valenok)(type KiCad)(uri ${KIPRJMOD}/valenok.pretty)(options "")(descr ""))
+)
